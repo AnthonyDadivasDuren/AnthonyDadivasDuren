@@ -1,14 +1,14 @@
 <h1 align="center">Anthony Durén</h1>
 <h3 align="center">
 Game Programming Student — Unity & Unreal Engine<br/>
-Gameplay Systems • AI • Performance
+Gameplay Systems • AI • Physics-Driven Gameplay
 </h3>
 
 ---
 
 🔭 <b>Current Project</b><br/>
 Bloodborne-inspired boss battle prototype (Unity)<br/>
-<b>Project Blood-Hunt</b> — focused on boss AI, combat systems, and state-driven behavior.
+<b>Project Blood-Hunt</b> — focused on physics-driven boss behavior, inverse kinematics, and state-based combat systems
 
 👨‍💻 <b>Projects</b><br/>
 All coursework and personal projects are available on my GitHub profile.<br/>
@@ -22,6 +22,17 @@ All coursework and personal projects are available on my GitHub profile.<br/>
   <li><b>Unity (C#)</b> — gameplay architecture, state machines, AI behaviors</li>
   <li><b>Unreal Engine 5</b> — C++, Blueprints, instanced rendering, performance-focused systems</li>
   <li><b>Game Systems</b> — combat design, boss logic, optimization for high FPS</li>
+</ul>
+
+---
+
+<h3 align="left">Technical Interests</h3>
+
+<ul>
+  <li>Physics-driven gameplay systems</li>
+  <li>Real-time destruction and procedural damage</li>
+  <li>Inverse kinematics implemented in code</li>
+  <li>Performance-conscious simulation systems</li>
 </ul>
 
 ---
