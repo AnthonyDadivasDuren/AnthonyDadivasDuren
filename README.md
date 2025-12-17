@@ -1,16 +1,47 @@
-## Hi there 👋
+<h1 align="center">Anthony Durén</h1>
+<h3 align="center">
+Game Programming Student — Unity & Unreal Engine<br/>
+Gameplay Systems • AI • Performance
+</h3>
 
-<!--
-**AnthonyDadivasDuren/AnthonyDadivasDuren** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+🔭 <b>Current Project</b><br/>
+Bloodborne-inspired boss battle prototype (Unity)<br/>
+<b>Project Blood-Hunt</b> — focused on boss AI, combat systems, and state-driven behavior.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👨‍💻 <b>Projects</b><br/>
+All coursework and personal projects are available on my GitHub profile.<br/>
+(Portfolio website coming soon)
+
+---
+
+<h3 align="left">Technical Focus</h3>
+
+<ul>
+  <li><b>Unity (C#)</b> — gameplay architecture, state machines, AI behaviors</li>
+  <li><b>Unreal Engine 5</b> — C++, Blueprints, instanced rendering, performance-focused systems</li>
+  <li><b>Game Systems</b> — combat design, boss logic, optimization for high FPS</li>
+</ul>
+
+---
+
+<h3 align="left">Background</h3>
+
+<ul>
+  <li>Previous studies in game graphics</li>
+  <li>3D modeling, basic animation, and asset pipelines</li>
+  <li>Strong understanding of art–code collaboration and performance constraints</li>
+</ul>
+
+---
+
+<h3 align="left">Languages & Tools</h3>
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/master/icons/svg/brand/unreal-engine.svg" width="40" height="40"/>
+</p>
