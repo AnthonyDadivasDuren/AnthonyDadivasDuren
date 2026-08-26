@@ -35,7 +35,6 @@ My main contribution was developing the standalone Telemetry Analytics Viewer, i
 
 **Languages:** C++, C#, Python, JavaScript  
 **Engines:** Unreal Engine 5, Unity  
-**Tools:** Git, GitHub, Rider, Visual Studio
 
 ---
 
