@@ -25,9 +25,13 @@ Previous background in **game graphics, 3D modelling and animation**.
 
 **TelemetryForDummies — UE5 / C++ / Python / JavaScript**
 
-Reusable Unreal Engine telemetry system with a standalone analytics viewer for interactive **2D/3D visualisation, filtering and session replay**.
+A six-person team project focused on making Unreal Engine playtest telemetry easier to collect and understand.
 
-My main contribution was developing the standalone Telemetry Analytics Viewer, including data discovery, visualisation, replay and packaging 
+My main individual contribution was the Telemetry Analytics Viewer, a standalone application I developed for exploring gameplay data through interactive 2D/3D visualisations, dynamic filtering and session replay.
+
+I also contributed to the Unreal-side telemetry foundation and the map, bounds and simplified geometry export pipeline.
+
+Tech: Unreal Engine 5 • C++ • Python • Dash • Plotly • JavaScript
 
 ---
 
