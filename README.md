@@ -1,57 +1,44 @@
 <h1 align="center">Anthony Durén</h1>
+
 <h3 align="center">
-Game Programming Student — Unity & Unreal Engine<br/>
-Gameplay Systems • AI • Physics-Driven Gameplay
+Game Programming Student
 </h3>
 
----
-
-🔭 <b>Current Project</b><br/>
-
-
-👨‍💻 <b>Projects</b><br/>
-- <b>Project Blood-Hunt</b> - Bloodborne-inspired boss battle prototype (Unity)<br/>
-(Portfolio website coming soon)
-
----
-
-<h3 align="left">Technical Focus</h3>
-
-<ul>
-  <li><b>Unity (C#)</b> — gameplay architecture, state machines, AI behaviors</li>
-  <li><b>Unreal Engine 5</b> — C++, Blueprints, instanced rendering, performance-focused systems</li>
-  <li><b>Game Systems</b> — combat design, boss logic, optimization for high FPS</li>
-</ul>
-
----
-
-<h3 align="left">Technical Interests</h3>
-
-<ul>
-  <li>Physics-driven gameplay systems</li>
-  <li>Real-time destruction and procedural damage</li>
-  <li>Inverse kinematics implemented in code</li>
-  <li>Performance-conscious simulation systems</li>
-</ul>
-
----
-
-<h3 align="left">Background</h3>
-
-<ul>
-  <li>Previous studies in game graphics</li>
-  <li>3D modeling, basic animation, and asset pipelines</li>
-  <li>Strong understanding of art–code collaboration and performance constraints</li>
-</ul>
-
----
-
-<h3 align="left">Languages & Tools</h3>
-
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/master/icons/svg/brand/unreal-engine.svg" width="40" height="40"/>
+<p align="center">
+C++ • Unreal Engine 5 • C# • Unity<br/>
+Gameplay Systems • Tools Development • AI • Physics
 </p>
+
+---
+
+### 👋 About Me
+
+Game programming student focused on gameplay systems, technical tools and real-time systems.
+
+I primarily work with **C++ and Unreal Engine 5**, with experience in **C#, Unity, Python and JavaScript**.
+
+Previous background in **game graphics, 3D modelling and animation**.
+
+---
+
+### 🔭 Featured Project
+
+**TelemetryForDummies — UE5 / C++ / Python / JavaScript**
+
+Reusable Unreal Engine telemetry system with a standalone analytics viewer for interactive **2D/3D visualisation, filtering and session replay**.
+
+My main contribution was developing the standalone Telemetry Analytics Viewer, including data discovery, visualisation, replay, packaging and cross-PC deployment.
+
+---
+
+### 🛠️ Technologies
+
+**Languages:** C++, C#, Python, JavaScript  
+**Engines:** Unreal Engine 5, Unity  
+**Tools:** Git, GitHub, Rider, Visual Studio
+
+---
+
+### 🎮 Interests
+
+Gameplay Programming • Physics • AI • Procedural Systems • Tools Development
