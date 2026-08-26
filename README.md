@@ -7,10 +7,9 @@ Gameplay Systems • AI • Physics-Driven Gameplay
 ---
 
 🔭 <b>Current Project</b><br/>
-Plattformer Project (UE5)<br/>
+
 
 👨‍💻 <b>Projects</b><br/>
-All coursework and personal projects are available on my GitHub profile.<br/>
 - <b>Project Blood-Hunt</b> - Bloodborne-inspired boss battle prototype (Unity)<br/>
 (Portfolio website coming soon)
 
