@@ -27,7 +27,7 @@ Previous background in **game graphics, 3D modelling and animation**.
 
 Reusable Unreal Engine telemetry system with a standalone analytics viewer for interactive **2D/3D visualisation, filtering and session replay**.
 
-My main contribution was developing the standalone Telemetry Analytics Viewer, including data discovery, visualisation, replay, packaging and cross-PC deployment.
+My main contribution was developing the standalone Telemetry Analytics Viewer, including data discovery, visualisation, replay and packaging 
 
 ---
 
