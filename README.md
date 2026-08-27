@@ -1,7 +1,7 @@
 <h1 align="center">Anthony Durén</h1>
 
 <h3 align="center">
-Game Programming Student
+Game Programmer
 </h3>
 
 <p align="center">
